@@ -5,3 +5,8 @@ Projeto simples de calculadora para treinar minhas habilidades.
 - HTML
 - CSS
 - JavaScript
+
+
+### Acesse a pagina 
+
+https://wdangelo.github.io/calculator/
